@@ -25,6 +25,28 @@ SOC Simulator — Introduction to Phishing scenario.
 ## Tools Used
 `Splunk` `Firewall Logs` `Alert Queue` `Analyst VM`
 
+## Performance
+
+**Scenario Score — 100% Completion:**
+
+![Score](screenshots/score-complete.PNG)
+
+---
+
+## Badges Earned
+
+**First Alert Closed** — Successfully triaged and closed first SOC alert:
+
+![First Alert Closed](<screenshots/first alert closed.PNG>)
+
+**First Scenario Completed** — Completed Introduction to Phishing:
+
+![First Scenario](<screenshots/First scanario.PNG>)
+
+**100% True Positive Rate** — Zero missed threats:
+
+![100% TP Rate](screenshots/badge-Rate.PNG)
+
 ## Author
 **Rohan Singh Chauhan**  
 [TryHackMe Profile](https://tryhackme.com/p/RohanSinghChauhan) | 
